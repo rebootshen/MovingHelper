@@ -4,4 +4,4 @@ A sample project for a  tutorial on setting up continuous integration with GitHu
 
 ###Master branch build status: 
 
-![](https://travis-ci.org/rebootshen/MovingHelper.svg?branch=master)
+[![Build Status](https://travis-ci.org/rebootshen/MovingHelper.png?branch=master)](https://travis-ci.org/rebootshen/MovingHelper)
